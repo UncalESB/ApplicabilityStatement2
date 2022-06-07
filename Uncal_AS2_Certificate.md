@@ -10,3 +10,8 @@ key-pass : test1234\
 store-pass : test1234\
 uncal-alias : uncal-sender\
 partner-alias : mule-public
+### properties of `mule-keystore.jks`
+key-pass : test1234\
+store-pass : test1234\
+mule-alias : mule-sender\
+partner-alias : uncal-public
