@@ -6,7 +6,7 @@
 these keystore has provide in this repo for Uncal AS2 connector testing purpose.
 `uncal-keystore.jks` already import partner certificate also vice versa, so the keystore is just deploy at Uncal Admin page and it will be appear in UIC AS2 Connector configuration
 ### properties of `uncal-keystore.jks`
-key-pass : test1234
-store-pass : test1234
-uncal-alias : uncal-sender
+key-pass : test1234\
+store-pass : test1234\
+uncal-alias : uncal-sender\
 partner-alias : mule-public
