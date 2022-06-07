@@ -17,3 +17,5 @@ mule-alias : mule-sender\
 partner-alias : uncal-public
 ### gambarnyah kayak ginih yah
 ![gambar_nyah](https://github.com/UncalESB/ApplicabilityStatement2/blob/main/CFG_uncalAS2_dan_Partner.png)
+### bikin sertipikatnyah kayak ginih yah
+![gambar_nyah](https://github.com/UncalESB/ApplicabilityStatement2/blob/main/AS2_Cert_cfg.png)
