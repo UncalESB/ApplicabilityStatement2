@@ -16,4 +16,4 @@ store-pass : test1234\
 mule-alias : mule-sender\
 partner-alias : uncal-public
 ### gambarnyah kayak ginih yah
-![alt text](https://github.com/UncalESB/NVR_Hikvision/blob/main/CFG_uncalAS2_dan_Partner.png)
+![gambar_nyah](https://github.com/UncalESB/ApplicabilityStatement2/blob/main/CFG_uncalAS2_dan_Partner.png)
